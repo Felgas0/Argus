@@ -1,2 +1,2 @@
 # Argus
-is a Web "A fast, open-source web vulnerability scanner for developers."
+Argus is a fast, open-source web vulnerability scanner for developers.
